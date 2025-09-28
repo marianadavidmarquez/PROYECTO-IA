@@ -1,5 +1,11 @@
 # PROYECTO-IA
-### PRO-SCORE: MODELO DE CLASIFICACIÓN PARA PREDICCIÓN DE DESEMPEÑO EN PRUEBAS SABER PRO EN COLOMBIA. 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1UZbJzROZ99opQw9AwypHYn6ZO_QGsSHw" alt="Logo Universidad" width="200"/>
+</p>
+
+<h2 align="center">
+  PRO-SCORE: MODELO DE CLASIFICACIÓN PARA PREDICCIÓN DE DESEMPEÑO EN PRUEBAS SABER PRO EN COLOMBIA
+</h2>  
 
 ### DESCRIPCIÓN DEL PROYECTO 
 #### Este proyecto estará enfocado en la creación de un modelo de clasificación en el que cada estudiante podrá predecir el desempeño que obtendrá en las pruebas saber pro administradas en colombia, los desempeños pueden estar entre bajo, medio bajo, medio alto o alto. 
