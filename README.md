@@ -30,4 +30,6 @@
 #### -ENTREGA 2: MODELOS BASE. 
 #### -ENTREGA 3: MODELO FINAL. 
 ### EJECUCIÓN DEL PROYECTO
+## 🎬 Video sobre el avance del proyecto
 
+[![Ver video en YouTube](https://img.youtube.com/vi/rp6-JZjazdA/0.jpg)](https://www.youtube.com/watch?v=rp6-JZjazdA)
